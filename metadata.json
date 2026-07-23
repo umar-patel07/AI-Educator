@@ -1,0 +1,6 @@
+{
+  "name": "AI Educator",
+  "description": "An all-in-one AI assistant that helps users discover AI tools, learn how to use them through interactive guides, chat, and simulate desktop automation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

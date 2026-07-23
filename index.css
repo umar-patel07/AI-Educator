@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+/* --- LIGHT THEME OVERRIDES --- */
+.light-mode {
+  background-color: #f8fafc !important;
+  color: #0f172a !important;
+}
+
+.light-mode header,
+.light-mode footer {
+  background-color: rgba(255, 255, 255, 0.9) !important;
+  border-color: #e2e8f0 !important;
+}
+
+.light-mode .bg-slate-950,
+.light-mode .bg-slate-900,
+.light-mode .bg-\[\#0B0B12\] {
+  background-color: #ffffff !important;
+  border-color: #e2e8f0 !important;
+  color: #0f172a !important;
+}
+
+.light-mode .bg-slate-900\/80,
+.light-mode .bg-slate-900\/60,
+.light-mode .bg-slate-900\/40,
+.light-mode .bg-slate-900\/30,
+.light-mode .bg-slate-900\/20,
+.light-mode .bg-slate-950\/80,
+.light-mode .bg-slate-950\/60,
+.light-mode .bg-slate-950\/40,
+.light-mode .bg-slate-950\/20 {
+  background-color: #f1f5f9 !important;
+  border-color: #e2e8f0 !important;
+  color: #0f172a !important;
+}
+
+.light-mode input,
+.light-mode select,
+.light-mode textarea {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+  border-color: #cbd5e1 !important;
+}
+
+.light-mode .text-slate-100,
+.light-mode .text-slate-200,
+.light-mode .text-slate-300 {
+  color: #1e293b !important;
+}
+
+.light-mode .text-slate-400,
+.light-mode .text-slate-500 {
+  color: #475569 !important;
+}
+
+.light-mode .border-slate-800,
+.light-mode .border-slate-850,
+.light-mode .border-slate-900,
+.light-mode .border-slate-950 {
+  border-color: #e2e8f0 !important;
+}
+
+.light-mode .bg-slate-800,
+.light-mode .bg-slate-850 {
+  background-color: #e2e8f0 !important;
+  color: #0f172a !important;
+}
+
